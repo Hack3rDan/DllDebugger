@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLLoader1", "DLLLoader1\DLLLoader1.vcproj", "{0C2936F9-C118-46F6-B6A3-8C649E55350E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0C2936F9-C118-46F6-B6A3-8C649E55350E}.Debug.ActiveCfg = Debug|Win32
+		{0C2936F9-C118-46F6-B6A3-8C649E55350E}.Debug.Build.0 = Debug|Win32
+		{0C2936F9-C118-46F6-B6A3-8C649E55350E}.Release.ActiveCfg = Release|Win32
+		{0C2936F9-C118-46F6-B6A3-8C649E55350E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
